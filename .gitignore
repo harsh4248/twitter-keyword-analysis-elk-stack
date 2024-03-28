@@ -2,3 +2,4 @@ elasticsearch-8.12.2
 kibana-8.12.2
 logstash-8.12.2
 env
+twitter.keys
